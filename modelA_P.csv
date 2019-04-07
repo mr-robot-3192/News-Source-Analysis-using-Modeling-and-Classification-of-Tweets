@@ -1,0 +1,253 @@
+"","Url_linked","Mentions","RT","No_ofwords","Hashtags","No_ofchars","Comma","Exclamations"
+"1",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"2",FALSE,TRUE,TRUE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"3",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"4",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"5",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"6",TRUE,FALSE,FALSE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,FALSE
+"7",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"8",TRUE,TRUE,TRUE,"Between 11 and 18","Two or more","Between 91 and 135",FALSE,FALSE
+"9",TRUE,TRUE,TRUE,"Less than or equal to 10","Zero","90 or lesser",FALSE,FALSE
+"10",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"11",TRUE,FALSE,FALSE,"More than 18","Zero","Between 91 and 135",TRUE,FALSE
+"12",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"13",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"14",TRUE,FALSE,FALSE,"Between 11 and 18","Zero","90 or lesser",FALSE,TRUE
+"15",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,TRUE
+"16",FALSE,TRUE,TRUE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"17",TRUE,TRUE,TRUE,"Between 11 and 18","Zero","90 or lesser",FALSE,FALSE
+"18",TRUE,TRUE,TRUE,"Between 11 and 18","Zero","90 or lesser",FALSE,FALSE
+"19",TRUE,TRUE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"20",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"21",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"22",TRUE,TRUE,FALSE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"23",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"24",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"25",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"26",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"27",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"28",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",TRUE,FALSE
+"29",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"30",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"31",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",TRUE,FALSE
+"32",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"33",TRUE,FALSE,FALSE,"More than 18","Zero","Between 91 and 135",TRUE,FALSE
+"34",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"35",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"36",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"37",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"38",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"39",TRUE,TRUE,FALSE,"Between 11 and 18","Zero","More than 135",TRUE,FALSE
+"40",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"41",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"42",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"43",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"44",TRUE,FALSE,FALSE,"Between 11 and 18","Two or more","Between 91 and 135",TRUE,FALSE
+"45",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"46",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"47",TRUE,TRUE,TRUE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,FALSE
+"48",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"49",TRUE,TRUE,FALSE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"50",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"51",TRUE,TRUE,TRUE,"More than 18","Two or more","Between 91 and 135",FALSE,FALSE
+"52",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"53",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,TRUE
+"54",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"55",TRUE,TRUE,TRUE,"Between 11 and 18","Zero","90 or lesser",FALSE,FALSE
+"56",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"57",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"58",FALSE,TRUE,TRUE,"Between 11 and 18","Zero","90 or lesser",TRUE,FALSE
+"59",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",TRUE,FALSE
+"60",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"61",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"62",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"63",TRUE,TRUE,TRUE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"64",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"65",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"66",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"67",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"68",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"69",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"70",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"71",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",TRUE,FALSE
+"72",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"73",TRUE,TRUE,TRUE,"Between 11 and 18","One","90 or lesser",FALSE,FALSE
+"74",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"75",FALSE,FALSE,FALSE,"Between 11 and 18","Zero","90 or lesser",TRUE,TRUE
+"76",FALSE,TRUE,TRUE,"Between 11 and 18","Zero","More than 135",FALSE,FALSE
+"77",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"78",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"79",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"80",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"81",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"82",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"83",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"84",TRUE,TRUE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"85",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"86",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"87",TRUE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"88",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"89",FALSE,TRUE,TRUE,"Between 11 and 18","Two or more","90 or lesser",FALSE,FALSE
+"90",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"91",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"92",TRUE,FALSE,FALSE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"93",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"94",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"95",TRUE,FALSE,FALSE,"Less than or equal to 10","Zero","90 or lesser",FALSE,FALSE
+"96",TRUE,FALSE,FALSE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"97",TRUE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"98",TRUE,TRUE,TRUE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"99",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"100",FALSE,TRUE,TRUE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"101",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"102",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"103",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"104",TRUE,TRUE,FALSE,"More than 18","Zero","Between 91 and 135",TRUE,TRUE
+"105",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"106",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"107",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"108",FALSE,TRUE,TRUE,"More than 18","One","Between 91 and 135",FALSE,FALSE
+"109",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"110",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"111",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"112",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"113",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"114",FALSE,TRUE,TRUE,"More than 18","One","Between 91 and 135",TRUE,FALSE
+"115",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"116",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"117",TRUE,FALSE,FALSE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,FALSE
+"118",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"119",TRUE,TRUE,TRUE,"More than 18","One","Between 91 and 135",FALSE,FALSE
+"120",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"121",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"122",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"123",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"124",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"125",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"126",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"127",TRUE,TRUE,FALSE,"More than 18","Zero","More than 135",TRUE,FALSE
+"128",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"129",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"130",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,TRUE
+"131",TRUE,TRUE,TRUE,"Between 11 and 18","Zero","90 or lesser",FALSE,FALSE
+"132",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"133",TRUE,TRUE,TRUE,"More than 18","One","Between 91 and 135",FALSE,FALSE
+"134",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"135",TRUE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"136",TRUE,TRUE,TRUE,"Between 11 and 18","Zero","90 or lesser",FALSE,FALSE
+"137",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"138",TRUE,TRUE,TRUE,"Between 11 and 18","Zero","90 or lesser",FALSE,FALSE
+"139",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"140",TRUE,FALSE,FALSE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"141",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"142",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"143",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"144",TRUE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"145",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",TRUE,FALSE
+"146",TRUE,TRUE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"147",TRUE,FALSE,FALSE,"More than 18","Zero","Between 91 and 135",TRUE,FALSE
+"148",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"149",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"150",FALSE,TRUE,FALSE,"Between 11 and 18","Zero","90 or lesser",TRUE,TRUE
+"151",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"152",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"153",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"154",TRUE,TRUE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"155",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"156",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"157",TRUE,FALSE,FALSE,"Between 11 and 18","Two or more","Between 91 and 135",FALSE,FALSE
+"158",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"159",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"160",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"161",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"162",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"163",TRUE,TRUE,TRUE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"164",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"165",TRUE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"166",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"167",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"168",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"169",TRUE,FALSE,FALSE,"Between 11 and 18","Zero","90 or lesser",FALSE,FALSE
+"170",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"171",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"172",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"173",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"174",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"175",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"176",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"177",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"178",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,TRUE
+"179",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"180",TRUE,TRUE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"181",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"182",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"183",TRUE,TRUE,FALSE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,FALSE
+"184",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"185",TRUE,FALSE,FALSE,"Between 11 and 18","Zero","90 or lesser",FALSE,FALSE
+"186",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"187",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",TRUE,FALSE
+"188",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"189",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"190",TRUE,TRUE,TRUE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"191",TRUE,FALSE,FALSE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"192",TRUE,FALSE,FALSE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"193",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"194",TRUE,TRUE,FALSE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,FALSE
+"195",FALSE,TRUE,TRUE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,TRUE
+"196",TRUE,FALSE,FALSE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,FALSE
+"197",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"198",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"199",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"200",TRUE,FALSE,FALSE,"More than 18","Two or more","Between 91 and 135",TRUE,FALSE
+"201",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"202",TRUE,FALSE,FALSE,"Between 11 and 18","Zero","Between 91 and 135",TRUE,FALSE
+"203",TRUE,TRUE,TRUE,"More than 18","One","Between 91 and 135",FALSE,FALSE
+"204",TRUE,FALSE,FALSE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,FALSE
+"205",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"206",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"207",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"208",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"209",TRUE,TRUE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"210",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"211",TRUE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"212",TRUE,TRUE,TRUE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,FALSE
+"213",TRUE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"214",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"215",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"216",TRUE,TRUE,FALSE,"More than 18","Zero","More than 135",TRUE,FALSE
+"217",TRUE,FALSE,FALSE,"More than 18","Two or more","Between 91 and 135",TRUE,FALSE
+"218",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"219",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"220",TRUE,TRUE,TRUE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"221",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",TRUE,FALSE
+"222",TRUE,TRUE,FALSE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"223",TRUE,TRUE,TRUE,"Between 11 and 18","Two or more","90 or lesser",FALSE,FALSE
+"224",TRUE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"225",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"226",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"227",TRUE,TRUE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
+"228",TRUE,FALSE,FALSE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"229",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"230",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"231",TRUE,TRUE,TRUE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,FALSE
+"232",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"233",FALSE,TRUE,TRUE,"More than 18","Two or more","More than 135",FALSE,FALSE
+"234",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"235",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"236",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,TRUE
+"237",TRUE,TRUE,FALSE,"Between 11 and 18","Two or more","Between 91 and 135",FALSE,FALSE
+"238",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,TRUE
+"239",TRUE,TRUE,TRUE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"240",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",TRUE,FALSE
+"241",FALSE,TRUE,TRUE,"Between 11 and 18","One","More than 135",FALSE,FALSE
+"242",FALSE,TRUE,TRUE,"Less than or equal to 10","Zero","90 or lesser",FALSE,FALSE
+"243",FALSE,TRUE,TRUE,"More than 18","One","More than 135",TRUE,FALSE
+"244",TRUE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"245",FALSE,TRUE,TRUE,"More than 18","One","More than 135",FALSE,FALSE
+"246",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"247",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"248",FALSE,TRUE,TRUE,"More than 18","Zero","Between 91 and 135",FALSE,FALSE
+"249",TRUE,FALSE,FALSE,"Between 11 and 18","Zero","Between 91 and 135",FALSE,TRUE
+"250",FALSE,FALSE,FALSE,"Less than or equal to 10","One","90 or lesser",FALSE,FALSE
+"251",FALSE,TRUE,TRUE,"More than 18","Zero","More than 135",FALSE,FALSE
+"252",TRUE,FALSE,FALSE,"More than 18","Zero","More than 135",FALSE,FALSE
