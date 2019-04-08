@@ -52,6 +52,18 @@ Therefore, we selected features based on past papers and our experience on Twitt
     8. Exclamation which states if a tweet contains an exclamation mark or not
     9. Mentions which indicates if that tweet contains a reference to another twitter user
 
+# Algorithm
+
+  * The problem of categorization was multiclass classification and not binary classification, we chose the following 3 algorithms to help us in building a model:
+  
+     * Multinomial Logistical Regression
+     * Sequential Minimal Optimization
+     * Random Forest
+  * For creating a model, we used WEKA, and 2 methods of testing:
+     * Complete Test Data
+     * 10-fold cross validation 
+  * We found out that though Random Forest had the highest accuracy when all these testing methods were combined, multinomial logistical regression had took the least time with almost the same accuracy. Therefore, we chose Multinomial Logistic Regression for the categorization.
+
 # Implementation
 
   * Establishing connection with Twitter API
