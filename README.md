@@ -160,3 +160,9 @@ Show the first ”n” observations.
 ```
 shinyApp(ui = ui, server = server)
 ```
+
+# Output
+
+  * ![alt text](https://user-images.githubusercontent.com/25413110/55702487-95333c80-598b-11e9-8a66-ffe37c25114c.png)
+ 
+ 
