@@ -16,10 +16,13 @@
       --- | --- | --- | --- |--- |--- |--- |--- |--- |---
       Tweet | H | N | L | H | N | L | H | N | L 
       Content | VH | H | N | H | N | L | N | L | VL
- * Sample of Data and Preprocessing steps:
+      
+# Sample of Data and Preprocessing steps:
  
- ![alt text](https://user-images.githubusercontent.com/25413110/55702487-95333c80-598b-11e9-8a66-ffe37c25114c.png)
-  
+  * ![alt text](https://user-images.githubusercontent.com/25413110/55702487-95333c80-598b-11e9-8a66-ffe37c25114c.png)
+ 
+# Parameters
+
 * **User Parameters:**
 
 Based on our literature survey, we chose the following parameters for determining user credibility:
