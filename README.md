@@ -51,3 +51,112 @@ Therefore, we selected features based on past papers and our experience on Twitt
     7. Comma which states if a tweet contains a comma or not
     8. Exclamation which states if a tweet contains an exclamation mark or not
     9. Mentions which indicates if that tweet contains a reference to another twitter user
+
+# Implementation
+
+  * Establishing connection with Twitter API
+```
+AuthandHandshake.fun(
+                      Establish Handshake with ”https://api.twitter.com/”
+                      Enter your twitter credentials and authorize the application
+                      On sucessful authentication R redirects you to browser, enter the 6 digit pin from browser on R Console
+                    )
+```
+
+  * Fetch and Parse Tweets on required Hashtag 
+```
+FetchandParse.fun(Tags)(
+                         Search for Tweets.
+                         Parse tweets and create data frames and CSV.
+                       )
+
+```
+  * Clean the Data and generate required paramters for Tweet Content Credibility Processing
+```
+cleanAfxn.fun(
+               Read the required data from csv
+               Check for Linked URL : Url_linked
+               Check for Mention : Mentions
+               Checks if it is a RT : RT
+               Checks number of Words : No_ofwords
+               Count number of Hahtags(” ”) : Hashtags
+               Count number of charecters : No_ofchars
+               Check presence of Comma : Comma 
+               Check for Exclamation mark : Exclamations
+               Write the processed data in CSV and into data frame
+             )
+```
+  * Clean the Data and generate required paramters for User Credibility Processing
+```
+cleanBfxn.fun(
+               Read the required data from csv
+               Check if Twitter is Source of information : Score1
+               Check the Listed count as a parameter : Score2
+               Check if user is verified or not. : Score_v
+               Check when Date of creation of account : Score4
+               Check statues count : Score5
+               Check followers and friend count : Ratio & Score6
+               Check for credibility with verified account and Ratio : Score3
+               Check credibility on basis of Verified + Ratio, Statuses Count and Listed
+               Count : Score7
+               Write the processed data in CSV and into data frame.
+             )
+```
+  * Calculate Tweet Credibility.
+```
+modelAfxn.fun(
+               Read the required data from csv
+               Inputs to Train the machine.
+               Train the machine as ModelA_T
+               Stats of the Model
+               Run the model for new set.
+               Read the required data from csv
+               Get credibility for new Dataset.
+               Record the Credibility and write it into csv.
+             )
+```
+
+  * Calculate Tweeter Credibility.
+```
+modelBfxn.fun(
+               Read the required data from csv
+               Inputs to Train the machine.
+               Train the machine as ModelB_T
+               Stats of the Model
+               Run the model for new set
+               Read the required data from csv
+               Get credibility for new Dataset.
+               Record the Credibility and write it into csv.
+             )
+```  
+  * Calculate Final Credibility.
+```
+credibility.fxn(
+                 Final Credibility calculations.
+                 Write final scores into CSV
+               )
+```
+  * Output System as a R application
+
+   1. Define UI for application.
+```
+ui <- fluidPage(
+                 Application title
+                 Sidebar with Inputs
+                 Sidebar Panel for inputs
+                 Input: Selector for choosing dataset
+                 Input: Number of obs
+                 Main panel for displaying outputs
+               )
+```
+
+   2. Define Server Logic
+```
+server <- function(input, output)
+Return the requested dataset.
+Show the first ”n” observations.
+```
+   3. Run the application
+```
+shinyApp(ui = ui, server = server)
+```
