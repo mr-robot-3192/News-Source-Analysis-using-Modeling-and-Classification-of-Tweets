@@ -54,10 +54,9 @@ Therefore, we selected features based on past papers and our experience on Twitt
 
 # Algorithm
 
-  * The problem of categorization was multiclass classification and not binary classification, we chose the following 3 algorithms to help us in building a model:
+  * The problem of categorization was multiclass classification and not binary classification, we chose the following 2 algorithms to help us in building a model:
   
      * Multinomial Logistical Regression
-     * Sequential Minimal Optimization
      * Random Forest
   * For creating a model, we used WEKA, and 2 methods of testing:
      * Complete Test Data
